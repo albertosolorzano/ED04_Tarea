@@ -5,8 +5,8 @@
  */
 package practicaut3;
 
-/**
- *
+/** Descripción de la clase Reloj
+ * 
  * @author alberto solórzano mirones
  * Tarea04 ED AG LINARES 2014-15 
  * 
@@ -15,7 +15,7 @@ public class Reloj {
 
     //Atributos de la clase Reloj modificados
     
-/**
+/** Descripción de la clase 
 *    
 *    Tras la refactorización las variables hora, minuto y segundo pasan a ser HH MM SS respectivamente.
 *    El cambio de nombre se variable se ha realizado limitándose a lo solicitado en la taréa, manteniéndose, conscientemente
@@ -42,6 +42,11 @@ public class Reloj {
         this.dd = dia;
         this.mm = mes;
     }
+    
+    
+    
+    // Y si añadimos algo muestra lo mismo en verde...
+    
     
 /*
 *   Insertamos los métodos getter y setter para los nuevos atributos dd y mm
