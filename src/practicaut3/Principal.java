@@ -5,9 +5,11 @@
  */
 package practicaut3;
 
-/**
- *
- * @author usuario
+/** Declaración de la clase principal
+ * 
+ * @author alberto solórzano mirones
+ * Tarea04 ED AG LINARES 2014-15 
+ * 
  */
 public class Principal {
 
