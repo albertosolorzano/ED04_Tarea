@@ -5,10 +5,12 @@
  */
 package practicaut3;
 
-/** Descripción de la clase Reloj
+/** Declaración de la clase principal
  * 
  * @author alberto solórzano mirones
  * Tarea04 ED AG LINARES 2014-15 
+ * 
+ * @version 1.1
  * 
  */
 public class Reloj {
